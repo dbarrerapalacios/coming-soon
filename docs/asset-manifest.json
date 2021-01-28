@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://dbarrerapalacios.github.io/coming-soon/static/css/main.ac35c5f8.chunk.css",
-    "main.js": "https://dbarrerapalacios.github.io/coming-soon/static/js/main.56b5e9aa.chunk.js",
-    "main.js.map": "https://dbarrerapalacios.github.io/coming-soon/static/js/main.56b5e9aa.chunk.js.map",
+    "main.css": "https://dbarrerapalacios.github.io/coming-soon/static/css/main.db4146a2.chunk.css",
+    "main.js": "https://dbarrerapalacios.github.io/coming-soon/static/js/main.d4756ac9.chunk.js",
+    "main.js.map": "https://dbarrerapalacios.github.io/coming-soon/static/js/main.d4756ac9.chunk.js.map",
     "runtime-main.js": "https://dbarrerapalacios.github.io/coming-soon/static/js/runtime-main.7b53c685.js",
     "runtime-main.js.map": "https://dbarrerapalacios.github.io/coming-soon/static/js/runtime-main.7b53c685.js.map",
-    "static/js/2.2cf05934.chunk.js": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.2cf05934.chunk.js",
-    "static/js/2.2cf05934.chunk.js.map": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.2cf05934.chunk.js.map",
+    "static/js/2.7903485a.chunk.js": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.7903485a.chunk.js",
+    "static/js/2.7903485a.chunk.js.map": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.7903485a.chunk.js.map",
     "index.html": "https://dbarrerapalacios.github.io/coming-soon/index.html",
-    "static/css/main.ac35c5f8.chunk.css.map": "https://dbarrerapalacios.github.io/coming-soon/static/css/main.ac35c5f8.chunk.css.map",
-    "static/js/2.2cf05934.chunk.js.LICENSE.txt": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.2cf05934.chunk.js.LICENSE.txt"
+    "static/css/main.db4146a2.chunk.css.map": "https://dbarrerapalacios.github.io/coming-soon/static/css/main.db4146a2.chunk.css.map",
+    "static/js/2.7903485a.chunk.js.LICENSE.txt": "https://dbarrerapalacios.github.io/coming-soon/static/js/2.7903485a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b53c685.js",
-    "static/js/2.2cf05934.chunk.js",
-    "static/css/main.ac35c5f8.chunk.css",
-    "static/js/main.56b5e9aa.chunk.js"
+    "static/js/2.7903485a.chunk.js",
+    "static/css/main.db4146a2.chunk.css",
+    "static/js/main.d4756ac9.chunk.js"
   ]
 }
